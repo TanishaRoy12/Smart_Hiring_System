@@ -28,18 +28,14 @@ A streamlined recruitment platform develop with Python, NLP, MySQL and Stremlit 
   - `Pandas` for data manipulation.  
 
 ## Installation
-1. Clone the repository:
-   git clone https://github.com/your-username/smart-hiring-system.git
-   cd smart-hiring-system
-
-Install dependencies:
+1. Install dependencies:
 pip install -r requirements.txt
 
-Set up the database:
+2. Set up the database:
 Create a MySQL database and import the necessary tables.
 Update mysql.connector.connect credentials in the script.
 
-Run the application:
+3. Run the application:
 streamlit run ano3.py
 
 Usage
